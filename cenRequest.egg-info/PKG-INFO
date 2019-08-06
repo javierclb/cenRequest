@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: cenRequest
+Version: 0.0.1
+Summary: Request data from CEN API
+Home-page: https://github.com/dguiraldes/cenRequest
+Author: Diego Guiraldes
+Author-email: dguiraldes@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: CEN
+Platform: UNKNOWN
